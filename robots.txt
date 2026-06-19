@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.geumcheon-barogo.example.com/sitemap.xml
+Sitemap: https://geumcheon-massage1.pages.dev/sitemap.xml

@@ -46,7 +46,7 @@ PAGES = [
 
 <section>
 <h2>지역별·생활권 안내도 함께</h2>
-<p>역 이름이 아니라 사시는 동네 이름으로 찾으시는 분은 동 단위 안내를 함께 보시면 좋습니다. <a href="/seoul/geumcheon/gasan-dong-chuljangmassage/">가산동</a>, <a href="/seoul/geumcheon/doksan-dong-chuljangmassage/">독산동</a>, <a href="/seoul/geumcheon/siheung-dong-chuljangmassage/">시흥동</a> 페이지에서 각 동의 방문 기준을 정리해 두었고, 더 작은 생활권 단위 안내도 연결해 두었습니다. 역세권과 동, 생활권은 서로 겹치는 부분이 많으므로 가장 익숙한 기준으로 들어오셔도 같은 안내로 이어집니다. <a href="/">금천구 전체 안내</a>에서 전체 구성을 한눈에 보실 수 있습니다.</p>
+<p>역 이름이 아니라 사시는 동네 이름으로 찾으시는 분은 동 단위 안내를 함께 보시면 좋습니다. <a href="/seoul/geumcheon/gasan-dong-chuljangmassage/">가산동 출장마사지 방문 안내</a>, <a href="/seoul/geumcheon/doksan-dong-chuljangmassage/">독산동 홈타이 예약 안내</a>, <a href="/seoul/geumcheon/siheung-dong-chuljangmassage/">시흥동 출장마사지 이동 기준</a> 페이지에서 각 동의 방문 기준을 정리해 두었고, 더 작은 생활권 단위 안내도 연결해 두었습니다. 역세권과 동, 생활권은 서로 겹치는 부분이 많으므로 가장 익숙한 기준으로 들어오셔도 같은 안내로 이어집니다. <a href="/">금천구 출장마사지 전체 안내</a>에서 전체 구성을 한눈에 보실 수 있습니다.</p>
 </section>
 
 <section>
@@ -88,12 +88,12 @@ PAGES = [
 
 <section>
 <h2>방문 가능 지역과 인접 생활권</h2>
-<p>가산디지털단지역을 기준으로 한 방문 안내는 가산동 전반과 맞닿은 생활권으로 이어집니다. 동 단위 기준은 <a href="/seoul/geumcheon/gasan-dong-chuljangmassage/">가산동</a> 페이지에서, 더 좁은 생활권 단위는 <a href="/seoul/geumcheon/gasan-digital-complex-area-chuljangmassage/">가산디지털단지 생활권</a> 페이지에서 정리하고 있습니다. 쇼핑몰이 모인 방면은 <a href="/seoul/geumcheon/fashion-outlet-area-chuljangmassage/">금천패션아울렛 생활권</a> 안내를 함께 참고하시면 위치를 잡기 쉽습니다.</p>
+<p>가산디지털단지역을 기준으로 한 방문 안내는 가산동 전반과 맞닿은 생활권으로 이어집니다. 동 단위 기준은 <a href="/seoul/geumcheon/gasan-dong-chuljangmassage/">가산동 출장마사지 방문 안내</a> 페이지에서, 더 좁은 생활권 단위는 <a href="/seoul/geumcheon/gasan-digital-complex-area-chuljangmassage/">가산디지털단지 생활권 출장마사지 안내</a> 페이지에서 정리하고 있습니다. 쇼핑몰이 모인 방면은 <a href="/seoul/geumcheon/fashion-outlet-area-chuljangmassage/">금천패션아울렛 생활권 홈타이 안내</a>를 함께 참고하시면 위치를 잡기 쉽습니다.</p>
 </section>
 
 <section>
 <h2>예약 전 확인해 두면 좋은 점</h2>
-<p>방문 가능 여부는 정확한 주소를 기준으로 판단하며, 거리에 따라 추가 이동비가 생길 수 있으니 예약 단계에서 미리 확인하시는 것을 권합니다. 결제 방식과 취소 기준도 같은 단계에서 안내하므로, 처음 이용하시더라도 부담 없이 문의하실 수 있습니다. 입력하신 위치와 연락처 등 개인정보가 어떤 목적으로 수집되고 얼마나 보관되는지, 어떻게 처리되는지는 <a href="/support/privacy/">개인정보 처리방침</a>에서 확인하실 수 있습니다.</p>
+<p>방문 가능 여부는 정확한 주소를 기준으로 판단하며, 거리에 따라 추가 이동비가 생길 수 있으니 예약 단계에서 미리 확인하시는 것을 권합니다. 결제 방식과 취소 기준도 같은 단계에서 안내하므로, 처음 이용하시더라도 부담 없이 문의하실 수 있습니다. 입력하신 위치와 연락처 등 개인정보가 어떤 목적으로 수집되고 얼마나 보관되는지, 어떻게 처리되는지는 <a href="/support/privacy/">개인정보 처리 기준 안내</a>에서 확인하실 수 있습니다.</p>
 </section>
 
 <section>
@@ -135,12 +135,12 @@ PAGES = [
 
 <section>
 <h2>방문 가능 지역과 인접 생활권</h2>
-<p>독산역 기준 방문 안내는 독산동 전반으로 이어집니다. 동 단위 기준은 <a href="/seoul/geumcheon/doksan-dong-chuljangmassage/">독산동</a> 페이지에서, 역 주변 생활권은 <a href="/seoul/geumcheon/doksan-station-area-chuljangmassage/">독산역 생활권</a> 페이지에서 다룹니다. 남부 주택가 위주로 거주하신다면 <a href="/seoul/geumcheon/doksan-residential-area-chuljangmassage/">독산동 주거지 생활권</a> 안내를 함께 보시면 위치를 더 정확히 잡으실 수 있습니다. 같은 독산동 안에서도 역과 가까운 상권, 안쪽 주택가, 남부 주거지는 분위기와 진입 방식이 조금씩 다르므로, 가장 가까운 기준으로 들어오셔도 모두 같은 안내로 이어집니다.</p>
+<p>독산역 기준 방문 안내는 독산동 전반으로 이어집니다. 동 단위 기준은 <a href="/seoul/geumcheon/doksan-dong-chuljangmassage/">독산동 출장마사지 방문 안내</a> 페이지에서, 역 주변 생활권은 <a href="/seoul/geumcheon/doksan-station-area-chuljangmassage/">독산역 생활권 홈타이 예약 안내</a> 페이지에서 다룹니다. 남부 주택가 위주로 거주하신다면 <a href="/seoul/geumcheon/doksan-residential-area-chuljangmassage/">독산동 주거지 생활권 출장마사지 이동 기준</a> 안내를 함께 보시면 위치를 더 정확히 잡으실 수 있습니다. 같은 독산동 안에서도 역과 가까운 상권, 안쪽 주택가, 남부 주거지는 분위기와 진입 방식이 조금씩 다르므로, 가장 가까운 기준으로 들어오셔도 모두 같은 안내로 이어집니다.</p>
 </section>
 
 <section>
 <h2>이용 전 확인사항</h2>
-<p>방문 가능 여부는 정확한 주소로 판단하며, 거리에 따라 추가 이동비가 발생할 수 있어 예약 시 미리 확인해 드립니다. 골목이 좁아 차량 접근이 어려운 위치라면 가까운 큰길까지의 거리도 함께 가늠해 안내합니다. 처음 이용하신다면 결제 방식과 취소 기준, 도착 안내 과정을 정리한 <a href="/precautions/">이용 전 확인사항</a>을 한 번 읽어 두시면 예약이 한결 수월하고, 궁금한 점은 예약 상담에서 다시 확인하실 수 있습니다.</p>
+<p>방문 가능 여부는 정확한 주소로 판단하며, 거리에 따라 추가 이동비가 발생할 수 있어 예약 시 미리 확인해 드립니다. 골목이 좁아 차량 접근이 어려운 위치라면 가까운 큰길까지의 거리도 함께 가늠해 안내합니다. 처음 이용하신다면 결제 방식과 취소 기준, 도착 안내 과정을 정리한 <a href="/precautions/">홈타이 이용 전 확인사항 안내</a>를 한 번 읽어 두시면 예약이 한결 수월하고, 궁금한 점은 예약 상담에서 다시 확인하실 수 있습니다.</p>
 </section>
 
 <section>
@@ -182,12 +182,12 @@ PAGES = [
 
 <section>
 <h2>방문 가능 지역과 인접 생활권</h2>
-<p>금천구청역 기준 방문 안내는 시흥동 전반으로 이어집니다. 동 단위 기준은 <a href="/seoul/geumcheon/siheung-dong-chuljangmassage/">시흥동</a> 페이지에서, 역과 관공서 주변은 <a href="/seoul/geumcheon/geumcheon-office-area-chuljangmassage/">금천구청 인근</a> 안내에서 다룹니다. 사거리 중심 상권 위주라면 <a href="/seoul/geumcheon/siheung-sageori-area-chuljangmassage/">시흥사거리 생활권</a> 페이지를 함께 참고하시면 위치를 잡기 쉽습니다. 시흥동은 범위가 넓고 북부 사거리와 남부 주택가의 성격이 다르므로, 가장 익숙한 장소를 기준으로 들어오셔도 같은 방문 안내로 연결됩니다.</p>
+<p>금천구청역 기준 방문 안내는 시흥동 전반으로 이어집니다. 동 단위 기준은 <a href="/seoul/geumcheon/siheung-dong-chuljangmassage/">시흥동 출장마사지 방문 안내</a> 페이지에서, 역과 관공서 주변은 <a href="/seoul/geumcheon/geumcheon-office-area-chuljangmassage/">금천구청 인근 홈타이 예약 안내</a>에서 다룹니다. 사거리 중심 상권 위주라면 <a href="/seoul/geumcheon/siheung-sageori-area-chuljangmassage/">시흥사거리 생활권 출장마사지 이동 기준</a> 페이지를 함께 참고하시면 위치를 잡기 쉽습니다. 시흥동은 범위가 넓고 북부 사거리와 남부 주택가의 성격이 다르므로, 가장 익숙한 장소를 기준으로 들어오셔도 같은 방문 안내로 연결됩니다.</p>
 </section>
 
 <section>
 <h2>방문 가능 지역 예약 안내</h2>
-<p>방문 가능 여부는 정확한 주소를 기준으로 확인하며, 남부 언덕 지형 특성상 거리에 따라 추가 이동비가 생길 수 있으니 예약 단계에서 미리 안내해 드립니다. 계단길 위쪽처럼 차량 접근이 어려운 곳은 도착 방식도 함께 안내합니다. 방문 가능 지역과 시간, 코스 안내 과정은 <a href="/reservation/">예약 안내</a>에서 자세히 정리해 두었으니 처음이시라면 함께 보시고, 위치가 애매하면 예약 상담에서 가능 여부를 바로 확인하실 수 있습니다.</p>
+<p>방문 가능 여부는 정확한 주소를 기준으로 확인하며, 남부 언덕 지형 특성상 거리에 따라 추가 이동비가 생길 수 있으니 예약 단계에서 미리 안내해 드립니다. 계단길 위쪽처럼 차량 접근이 어려운 곳은 도착 방식도 함께 안내합니다. 방문 가능 지역과 시간, 코스 안내 과정은 <a href="/reservation/">금천구 출장마사지 예약 안내</a>에서 자세히 정리해 두었으니 처음이시라면 함께 보시고, 위치가 애매하면 예약 상담에서 가능 여부를 바로 확인하실 수 있습니다.</p>
 </section>
 
 <section>
@@ -229,7 +229,7 @@ PAGES = [
 
 <section>
 <h2>방문 가능 지역과 인접 생활권</h2>
-<p>이 페이지의 방문 안내는 어디까지나 금천구 시흥동 남부를 기준으로 합니다. 동 단위 전반은 <a href="/seoul/geumcheon/siheung-dong-chuljangmassage/">시흥동</a> 페이지에서 확인하실 수 있고, 하천변 생활권은 <a href="/seoul/geumcheon/anyangcheon-area-chuljangmassage/">안양천 인접 생활권</a> 안내에서 다룹니다. 더 북쪽 금천구청 방면이 가깝다면 <a href="/seoul/geumcheon/geumcheon-gu-office-station-chuljangmassage/">금천구청역</a> 안내를 함께 보시면 위치를 잡기 쉽습니다. 석수역은 환승 없이 1호선만 지나므로 노선별로 페이지를 나눌 필요가 없고, 이렇게 금천구 생활권 안내로만 연결해 두면 행정구역이 헷갈리지 않습니다.</p>
+<p>이 페이지의 방문 안내는 어디까지나 금천구 시흥동 남부를 기준으로 합니다. 동 단위 전반은 <a href="/seoul/geumcheon/siheung-dong-chuljangmassage/">시흥동 출장마사지 방문 안내</a> 페이지에서 확인하실 수 있고, 하천변 생활권은 <a href="/seoul/geumcheon/anyangcheon-area-chuljangmassage/">안양천 인접 생활권 홈타이 이동 기준</a> 안내에서 다룹니다. 더 북쪽 금천구청 방면이 가깝다면 <a href="/seoul/geumcheon/geumcheon-gu-office-station-chuljangmassage/">금천구청역 출장마사지 예약 안내</a>를 함께 보시면 위치를 잡기 쉽습니다. 석수역은 환승 없이 1호선만 지나므로 노선별로 페이지를 나눌 필요가 없고, 이렇게 금천구 생활권 안내로만 연결해 두면 행정구역이 헷갈리지 않습니다.</p>
 </section>
 
 <section>
@@ -276,7 +276,7 @@ PAGES = [
 
 <section>
 <h2>방문 가능 지역과 인접 생활권</h2>
-<p>이 페이지의 방문 안내는 금천구 가산동을 기준으로 합니다. 동 단위 전반은 <a href="/seoul/geumcheon/gasan-dong-chuljangmassage/">가산동</a> 페이지에서 확인하실 수 있고, 업무지구 생활권은 <a href="/seoul/geumcheon/gasan-digital-complex-area-chuljangmassage/">가산디지털단지 생활권</a> 안내에서 다룹니다. 금천구 안쪽 환승역 기준으로 위치를 잡고 싶으시다면 <a href="/seoul/geumcheon/gasan-digital-complex-station-chuljangmassage/">가산디지털단지역</a> 안내를 함께 보시면 좋습니다. 구로 쪽 역명으로 검색하셨더라도 댁이나 사무실이 가산동이라면 이 안내들이 모두 같은 방문 기준으로 이어지므로, 익숙한 쪽으로 들어오셔도 됩니다.</p>
+<p>이 페이지의 방문 안내는 금천구 가산동을 기준으로 합니다. 동 단위 전반은 <a href="/seoul/geumcheon/gasan-dong-chuljangmassage/">가산동 출장마사지 방문 안내</a> 페이지에서 확인하실 수 있고, 업무지구 생활권은 <a href="/seoul/geumcheon/gasan-digital-complex-area-chuljangmassage/">가산디지털단지 생활권 홈타이 이동 기준</a> 안내에서 다룹니다. 금천구 안쪽 환승역 기준으로 위치를 잡고 싶으시다면 <a href="/seoul/geumcheon/gasan-digital-complex-station-chuljangmassage/">가산디지털단지역 출장마사지 예약 안내</a>를 함께 보시면 좋습니다. 구로 쪽 역명으로 검색하셨더라도 댁이나 사무실이 가산동이라면 이 안내들이 모두 같은 방문 기준으로 이어지므로, 익숙한 쪽으로 들어오셔도 됩니다.</p>
 </section>
 
 <section>
