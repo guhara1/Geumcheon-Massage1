@@ -2,7 +2,8 @@
 from .site import BASE_URL, BRAND, PHONE, PHONE_DISPLAY, REGION
 from .components import INFO_BLOCK, CTA
 
-_JSONLD = f"""<script type="application/ld+json">
+_JSONLD = f"""<meta name="naver-site-verification" content="1754e535be5d16cd60a43b37a2a21d36ac4ccab2" />
+<script type="application/ld+json">
 {{
   "@context": "https://schema.org",
   "@type": "WebPage",

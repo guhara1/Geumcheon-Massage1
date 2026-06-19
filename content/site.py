@@ -1,6 +1,13 @@
 # 사이트 공통 설정 — 금천구 출장마사지·홈타이 안내
 BASE_URL = "https://geumcheon-massage1.pages.dev"
 
+# IndexNow 키 — 루트에 {INDEXNOW_KEY}.txt 파일로 노출되며 빙·네이버·얀덱스에 즉시 색인 통보에 사용.
+INDEXNOW_KEY = "3397165d01a7c228c01852a3837b2c1a"
+
+# RSS 피드 메타
+FEED_TITLE = "바로GO 금천구 출장마사지·홈타이 안내"
+FEED_DESC = "금천구 출장마사지·홈타이 방문 가능 지역, 역세권·생활권 안내와 예약 정보를 제공합니다."
+
 BRAND = "바로GO"
 BRAND_MARK = "GO"
 PHONE = "0508-202-4719"

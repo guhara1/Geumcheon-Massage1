@@ -17,11 +17,27 @@ python3 build.py
 빌드 시 자동으로 적용되는 규칙:
 
 - 본문 텍스트 2,000자 미만 페이지는 `robots noindex` 처리
-- `sitemap.xml` 에는 index 허용 페이지만 포함
+- `sitemap.xml`(lastmod·changefreq·priority 포함)·`rss.xml` 자동 생성 — index 허용 페이지만 포함
 - 공통 안내 블록(`class="pricing"`)은 페이지 고유 본문 글자수 측정에서 제외
-- `robots.txt`, `.nojekyll` 자동 생성
+- `robots.txt`(주요 크롤러 명시 + sitemap·rss), `<INDEXNOW_KEY>.txt`, `.nojekyll` 자동 생성
+- 메인 페이지에 네이버 사이트 인증 메타태그 포함
 
-배포 전 `content/site.py` 의 `BASE_URL` 을 실제 도메인으로 변경하세요.
+`content/site.py` 의 `BASE_URL`(실제 도메인)·`INDEXNOW_KEY` 를 확인하세요.
+
+## 색인 통보 (가장 빠른 인덱싱)
+
+배포 후 검색엔진에 즉시 알리는 도구는 `tools/` 에 있습니다(자세한 사용법은 `tools/README.md`).
+
+```bash
+python build.py                  # sitemap·rss·IndexNow 키 파일 생성
+python tools/indexnow.py         # 빙·네이버·얀덱스 전체 일괄 통보
+python tools/indexnow.py <URL>   # 글 올릴 때마다 특정 URL 즉시 통보
+python tools/google_indexing.py  # (선택) 구글 Indexing API — 서비스 계정 필요
+```
+
+- IndexNow: 한 번 통보로 빙·네이버·얀덱스에 공유(구글 미참여)
+- 구글: `tools/google_indexing.py` 또는 Search Console 에 `sitemap.xml` 제출
+- IndexNow 승인 조건: `https://<도메인>/<INDEXNOW_KEY>.txt` 가 공개로 열려야 함
 
 ## 사이트 구조
 
